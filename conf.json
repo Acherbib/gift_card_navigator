@@ -1,0 +1,76 @@
+ {
+      "buttons": {
+        "netflix": {
+          "imageUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400",
+          "link": "amazon.com/netflix-gift-cards",
+          "name": "Netflix Gift Card",
+          "description": "Stream your favorite shows and movies with Netflix gift cards. Perfect for entertainment lovers who want access to thousands of movies and TV series.",
+          "category": "Entertainment",
+          "price": 25.00,
+          "currency": "USD"
+        },
+        "amazon": {
+          "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400",
+          "link": "amazon.com/gift-cards",
+          "name": "Amazon Gift Card",
+          "description": "Shop for anything on Amazon with these versatile gift cards. From electronics to books, clothing to home goods - Amazon has it all.",
+          "category": "Shopping",
+          "price": 50.00,
+          "currency": "USD"
+        },
+        "steam": {
+          "imageUrl": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400",
+          "link": "store.steampowered.com/digitalgiftcards",
+          "name": "Steam Gift Card",
+          "description": "Unlock thousands of PC games with Steam gift cards. Perfect for gamers who want access to the latest titles and indie games.",
+          "category": "Gaming",
+          "price": 20.00,
+          "currency": "USD"
+        },
+        "starbucks": {
+          "imageUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400",
+          "link": "starbucks.com/gift-cards",
+          "name": "Starbucks Gift Card",
+          "description": "Enjoy your favorite coffee and treats with Starbucks gift cards. Perfect for coffee lovers and convenient for daily caffeine fixes.",
+          "category": "Food & Dining",
+          "price": 15.00,
+          "currency": "USD"
+        },
+        "playstation": {
+          "imageUrl": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400",
+          "link": "playstation.com/gift-cards",
+          "name": "PlayStation Gift Card",
+          "description": "Access games, DLC, and PlayStation Plus subscriptions. Essential for PlayStation gamers who want to expand their gaming library.",
+          "category": "Gaming",
+          "price": 30.00,
+          "currency": "USD"
+        },
+        "spotify": {
+          "imageUrl": "https://images.unsplash.com/photo-1611339555312-e607c8352fd7?w=400",
+          "link": "spotify.com/gift-cards",
+          "name": "Spotify Gift Card",
+          "description": "Enjoy millions of songs, podcasts, and playlists with Spotify Premium. Perfect for music lovers who want ad-free listening.",
+          "category": "Entertainment",
+          "price": 10.00,
+          "currency": "USD"
+        },
+        "target": {
+          "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400",
+          "link": "target.com/gift-cards",
+          "name": "Target Gift Card",
+          "description": "Shop for everything you need at Target with these versatile gift cards. From groceries to home goods, clothing to electronics.",
+          "category": "Shopping",
+          "price": 25.00,
+          "currency": "USD"
+        },
+        "xbox": {
+          "imageUrl": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400",
+          "link": "xbox.com/gift-cards",
+          "name": "Xbox Gift Card",
+          "description": "Enhance your Xbox gaming experience with gift cards for games, DLC, and Xbox Game Pass subscriptions.",
+          "category": "Gaming",
+          "price": 25.00,
+          "currency": "USD"
+        }
+      }
+    }
