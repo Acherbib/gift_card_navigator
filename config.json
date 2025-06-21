@@ -1,85 +1,112 @@
- {
-      "buttons": {
-        "netflix": {
-          "imageUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400",
-          "link": "amazon.com/netflix-gift-cards",
-          "name": "Netflix Gift Card",
-          "description": "Stream your favorite shows and movies with Netflix gift cards. Perfect for entertainment lovers who want access to thousands of movies and TV series.",
-          "category": "Entertainment",
-          "price": 25.00,
-          "currency": "USD"
-        },
-        "amazon": {
-          "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400",
-          "link": "amazon.com/gift-cards",
-          "name": "Amazon Gift Card",
-          "description": "Shop for anything on Amazon with these versatile gift cards. From electronics to books, clothing to home goods - Amazon has it all.",
-          "category": "Shopping",
-          "price": 50.00,
-          "currency": "USD"
-        },
-        "steam": {
-          "imageUrl": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400",
-          "link": "store.steampowered.com/digitalgiftcards",
-          "name": "Steam Gift Card",
-          "description": "Unlock thousands of PC games with Steam gift cards. Perfect for gamers who want access to the latest titles and indie games.",
-          "category": "Gaming",
-          "price": 20.00,
-          "currency": "USD"
-        },
-        "starbucks": {
-          "imageUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400",
-          "link": "starbucks.com/gift-cards",
-          "name": "Starbucks Gift Card",
-          "description": "Enjoy your favorite coffee and treats with Starbucks gift cards. Perfect for coffee lovers and convenient for daily caffeine fixes.",
-          "category": "Food & Dining",
-          "price": 15.00,
-          "currency": "USD"
-        },
-        "playstation": {
-          "imageUrl": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400",
-          "link": "playstation.com/gift-cards",
-          "name": "PlayStation Gift Card",
-          "description": "Access games, DLC, and PlayStation Plus subscriptions. Essential for PlayStation gamers who want to expand their gaming library.",
-          "category": "Gaming",
-          "price": 30.00,
-          "currency": "USD"
-        },
-        "spotify": {
-          "imageUrl": "https://images.unsplash.com/photo-1611339555312-e607c8352fd7?w=400",
-          "link": "spotify.com/gift-cards",
-          "name": "Spotify Gift Card",
-          "description": "Enjoy millions of songs, podcasts, and playlists with Spotify Premium. Perfect for music lovers who want ad-free listening.",
-          "category": "Entertainment",
-          "price": 10.00,
-          "currency": "USD"
-        },
-        "target": {
-          "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400",
-          "link": "target.com/gift-cards",
-          "name": "Target Gift Card",
-          "description": "Shop for everything you need at Target with these versatile gift cards. From groceries to home goods, clothing to electronics.",
-          "category": "Shopping",
-          "price": 25.00,
-          "currency": "USD"
-        },
-        "xbox": {
-          "imageUrl": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400",
-          "link": "xbox.com/gift-cards",
-          "name": "Xbox Gift Card",
-          "description": "Enhance your Xbox gaming experience with gift cards for games, DLC, and Xbox Game Pass subscriptions.",
-          "category": "Gaming",
-          "price": 25.00,
-          "currency": "USD"
-        } ,
-        "roblox": {
-          "imageUrl": "https://images.rbxcdn.com/d572cc8714e0ec771ad8268977880ddf.png",
-          "link": "https://a.co/d/7KitYot",
-          "name": "Roblox Digital Gift Card ",
-          "description": "The easiest way to add Robux (Roblox’s digital currency) to your account. Use Robux to deck out your avatar and unlock additional perks in your favorite Roblox experiences.",
-          "category": "Gaming",
-          "price": 10.00,
-          "currency": "USD"
-        }
-      }
+{
+  "buttons": {
+    "amazon": {
+      "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/amazon-gift-card",
+      "name": "Amazon Gift Card",
+      "description": "Shop for millions of items on Amazon with versatile gift cards. From electronics to books, home goods to fashion - Amazon has everything you need.",
+      "category": "Shopping",
+      "price": 25.00,
+      "currency": "USD"
+    },
+    "starbucks": {
+      "imageUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/starbucks-gift-card",
+      "name": "Starbucks Gift Card",
+      "description": "Delicious coffee, soft drinks, and baked goods, with countless locations across the globe. Perfect for your daily caffeine fix.",
+      "category": "Food & Dining",
+      "price": 15.00,
+      "currency": "USD"
+    },
+    "target": {
+      "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/target-gift-card",
+      "name": "Target Gift Card",
+      "description": "Shop for everything from groceries to electronics, clothing to home goods at Target stores nationwide.",
+      "category": "Shopping",
+      "price": 25.00,
+      "currency": "USD"
+    },
+    "visa": {
+      "imageUrl": "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/visa-gift-cards",
+      "name": "Visa Gift Card",
+      "description": "Use anywhere Visa debit cards are accepted. Perfect flexible gift with custom designs and no expiration date. Available from $10-$250.",
+      "category": "General",
+      "price": 50.00,
+      "currency": "USD"
+    },
+    "bestbuy": {
+      "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/best-buy-gift-card",
+      "name": "Best Buy Gift Card",
+      "description": "A destination for all things tech including TVs, appliances, game consoles, and more. Perfect for tech enthusiasts.",
+      "category": "Electronics",
+      "price": 50.00,
+      "currency": "USD"
+    },
+    "spotify": {
+      "imageUrl": "https://images.unsplash.com/photo-1611339555312-e607c8352fd7?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/spotify-gift-card",
+      "name": "Spotify Gift Card",
+      "description": "Digital music and podcast streaming, totally ad-free. Perfect for music lovers who want premium listening experience.",
+      "category": "Entertainment",
+      "price": 30.00,
+      "currency": "USD"
+    },
+    "ebay": {
+      "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/product-listing/brands/ebay-gift-card",
+      "name": "eBay Gift Card",
+      "description": "One Card. So Many Options. Shop from billions of items in Electronics, Toys, Motors, Fashion, Home & Garden, Art, and Collectibles.",
+      "category": "Shopping",
+      "price": 25.00,
+      "currency": "USD"
+    },
+    "sephora": {
+      "imageUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/sephora-gift-card",
+      "name": "Sephora Gift Card",
+      "description": "Offers a vast and diverse selection of prestige beauty products online and in 300+ stores nationwide. Perfect for beauty enthusiasts.",
+      "category": "Beauty",
+      "price": 25.00,
+      "currency": "USD"
+    },
+    "gamestop": {
+      "imageUrl": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/gamestop-gift-card",
+      "name": "GameStop Gift Card",
+      "description": "A family of specialty retail brands that makes the most popular gaming technologies affordable and accessible.",
+      "category": "Gaming",
+      "price": 25.00,
+      "currency": "USD"
+    },
+    "one4all": {
+      "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/one4all-gift-card",
+      "name": "One4all Gift Card",
+      "description": "Your digital ticket to a shopping extravaganza! Accepted at thousands of stores, giving the ultimate gift of choice with no fees.",
+      "category": "Multi-Brand",
+      "price": 50.00,
+      "currency": "USD"
+    },
+    "adidas": {
+      "imageUrl": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/adidas-gift-card",
+      "name": "Adidas Gift Card",
+      "description": "Perfect for running shoes, winter-ready parkas, and quality activewear. Great for fitness enthusiasts and athletes.",
+      "category": "Sports & Fitness",
+      "price": 30.00,
+      "currency": "USD"
+    },
+    "nordstrom": {
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400",
+      "link": "https://www.giftcards.com/us/en/catalog/brands/nordstrom-gift-card",
+      "name": "Nordstrom Gift Card",
+      "description": "Great destination for new clothes, accessories, and home goods, offering upscale shopping experiences.",
+      "category": "Fashion",
+      "price": 50.00,
+      "currency": "USD"
     }
+  }
+}
